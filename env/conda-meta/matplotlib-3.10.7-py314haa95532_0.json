@@ -1,0 +1,35 @@
+{
+  "build": "py314haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.10.7,<3.10.8.0a0",
+    "pyqt >=5",
+    "python >=3.14,<3.15.0a0",
+    "python_abi 3.14.* *_cp314",
+    "tornado >=5"
+  ],
+  "extracted_package_dir": "C:\\Users\\pardh\\.conda\\pkgs\\matplotlib-3.10.7-py314haa95532_0",
+  "files": [],
+  "fn": "matplotlib-3.10.7-py314haa95532_0.conda",
+  "license": "LicenseRef-PSF-based",
+  "link": {
+    "source": "C:\\Users\\pardh\\.conda\\pkgs\\matplotlib-3.10.7-py314haa95532_0",
+    "type": 1
+  },
+  "md5": "fbf862dc359cba814106963c9c5a0abb",
+  "name": "matplotlib",
+  "package_tarball_full_path": "C:\\Users\\pardh\\.conda\\pkgs\\matplotlib-3.10.7-py314haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "c5067e33d34541d0a8b389e2b3a9aeb3f176b44dd6ef39656ec864a5f49499bc",
+  "size": 6809,
+  "subdir": "win-64",
+  "timestamp": 1765202468000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/matplotlib-3.10.7-py314haa95532_0.conda",
+  "version": "3.10.7"
+}
